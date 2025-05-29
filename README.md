@@ -6,7 +6,7 @@ Aplikasi Android sederhana untuk menampilkan berita terkini menggunakan [NewsAPI
 #### 1. Clone Repo
 
 ```bash
-git clone https://github.com/username/beritaapp.git
+git clone https://github.com/Riancahyo/beritaapp.git
 cd beritaapp
 ```
 
